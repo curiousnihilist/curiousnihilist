@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **curiousnihilist/curiousnihilist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Akash 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer with 6+ years of experience building backend systems and applications.
+
+💻 Tech Stack
+Languages: Java, Python
+Frameworks: Spring Boot, Flask
+Databases: PostgreSQL
+Cloud & Infrastructure: AWS, Docker
+Other: REST APIs, Redis, Apache Superset, Trino
