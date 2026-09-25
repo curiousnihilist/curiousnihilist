@@ -9,3 +9,6 @@ I'm a **Software Engineer with 6+ years of experience** building backend systems
 - **Databases:** PostgreSQL
 - **Cloud & Infrastructure:** AWS, Docker
 - **Other:** REST APIs, Redis, Apache Superset, Trino
+
+![](https://komarev.com/ghpvc/?username=curiousnihilist)
+
