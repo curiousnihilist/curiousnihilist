@@ -1,6 +1,12 @@
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=curiousnihilist&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
 # Hi, I'm Akash 👋
 
-I'm a **Software Engineer with 6+ years of experience** building backend systems and applications.
+I'm a **Software Engineer with 6+ years of experience** building backend systems, APIs, and scalable applications.
 
 ### 💻 Tech Stack
 
@@ -8,7 +14,4 @@ I'm a **Software Engineer with 6+ years of experience** building backend systems
 - **Frameworks:** Spring Boot, Flask
 - **Databases:** PostgreSQL
 - **Cloud & Infrastructure:** AWS, Docker
-- **Other:** REST APIs, Redis, Apache Superset, Trino
-
-![](https://komarev.com/ghpvc/?username=curiousnihilist)
-
+- **Tools & Technologies:** REST APIs, Redis, Apache Superset, Trino
